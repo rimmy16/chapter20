@@ -1,3 +1,5 @@
+
+
 # Exercise 1
 In this exercise, you'll practice working with branches, including **merging** changes between them.
 
@@ -26,4 +28,4 @@ To complete the exercise, follow the below steps:
 10. Now `merge` the contents from `experiment` ___into___ `master`. Remember you'll want to switch to the `master` branch first (the one you are merging ___into___).
 
 
-I ate tomato sandwich for breakfast
+I ate tomato sandwich and milk for breakfast.
